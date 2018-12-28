@@ -1,16 +1,13 @@
 {
-  "main.css": "/static/css/main.823912dc.chunk.css",
-  "main.js": "/static/js/main.cf2e8af3.chunk.js",
-  "main.js.map": "/static/js/main.cf2e8af3.chunk.js.map",
-  "static/js/1.25aee797.chunk.js": "/static/js/1.25aee797.chunk.js",
-  "static/js/1.25aee797.chunk.js.map": "/static/js/1.25aee797.chunk.js.map",
+  "main.css": "/static/css/main.2de85165.chunk.css",
+  "main.js": "/static/js/main.29d109c7.chunk.js",
+  "main.js.map": "/static/js/main.29d109c7.chunk.js.map",
+  "static/js/1.324b6cf3.chunk.js": "/static/js/1.324b6cf3.chunk.js",
+  "static/js/1.324b6cf3.chunk.js.map": "/static/js/1.324b6cf3.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.823912dc.chunk.css.map": "/static/css/main.823912dc.chunk.css.map",
-  "static/media/mail.svg": "/static/media/mail.a283f988.svg",
-  "static/media/linkedIn.svg": "/static/media/linkedIn.269a91d0.svg",
-  "static/media/github.svg": "/static/media/github.585282f5.svg",
+  "static/css/main.2de85165.chunk.css.map": "/static/css/main.2de85165.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.d1dedb21685a74254233b0c493890c3c.js": "/precache-manifest.d1dedb21685a74254233b0c493890c3c.js",
+  "precache-manifest.d6c78ba5b787b498192d7e66750cc0cc.js": "/precache-manifest.d6c78ba5b787b498192d7e66750cc0cc.js",
   "service-worker.js": "/service-worker.js"
 }
