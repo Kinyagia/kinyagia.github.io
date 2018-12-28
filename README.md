@@ -27,10 +27,10 @@ Your app is ready to be deployed!
 
 
 ### To make any updates 
-git checkout source
-git push origin source
-git checkout master  (switch to master branch)
-git merge source
-npm run deploy 
+git checkout source <br>
+git push origin source<br>
+git checkout master  (switch to master branch) <br>
+git merge source <br>
+npm run deploy <br>
 
 !!! Done
