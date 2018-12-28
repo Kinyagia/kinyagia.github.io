@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import mail from './mail.svg';
-import github from './github.svg';
-import linkedIn from './linkedIn.svg';
 
 class App extends Component {
   render() {
@@ -26,15 +23,20 @@ class App extends Component {
            I am currently working on.
           </p>
           <p id="about">
-           I&#39;m twenty   <br/>
            My hobbys are Cinema,listening to old timey tunes,
            and Podcasts.
           </p>
           <footer className="contacts" id="contacts">
             <ul>
-             <li><img src={mail} className="App-logo" /></li> 
-              <li><img src={github} className="App-logo" /></li>  
-              <li><img src={linkedIn} className="App-logo" /></li> 
+             <a href="mailto: mburumorris@outlook.com" target="_blank" rel="noopener noreferrer" alt="mail">
+              <li><img src="https://cdn.staticaly.com/gist/Kinyagia/de7897aec675aa3649f1b3bc70c7a624/raw/45bacd9e92f2e340a11c567c121600d503c2ae16/mail.svg" className="App-logo"/></li>
+              </a>
+              <a href="https://github.com/kinyagia" target="_blank" rel="noopener noreferrer" alt="github">
+              <li><img src="https://cdn.staticaly.com/gist/Kinyagia/1f003c566b57246eb1d870e76572e119/raw/df9e7da35eaa42efcecebc60bb55ca23b4173128/github.svg" className="App-logo" /></li>
+              </a>
+              <a href="https://www.linkedin.com/in/morris-mburu-8b6a0413a/" target="_blank" rel="noopener noreferrer" alt="linkedIn">
+              <li><img src="https://cdn.staticaly.com/gist/Kinyagia/c2c66e6c85fcc78e3aaef8ea9b8191df/raw/b934a0b98cabecccc77aa45dfe2bffac4836daf1/linkedIn.svg" className="App-logo"/></li> 
+              </a>
             </ul>
           </footer>
           </div>
