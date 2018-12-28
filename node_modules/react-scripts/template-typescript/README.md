@@ -31,6 +31,7 @@ git checkout source <br>
 git push origin source<br>
 git checkout master  (switch to master branch) <br>
 git merge source <br>
+git checkout source (switch back to source)<br> 
 npm run deploy <br>
 
 !!! Done
