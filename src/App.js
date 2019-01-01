@@ -23,8 +23,8 @@ class App extends Component {
            I am currently working on.
           </p>
           <p id="about">
-           My hobbys are Cinema,listening to old timey tunes,
-           and Podcasts.
+           My hobbys include cinema,listening to old timey tunes,
+           and podcasts.
           </p>
           <footer className="contacts" id="contacts">
             <ul>
